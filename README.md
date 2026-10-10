@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://awesome.re"><img src="https://img.shields.io/badge/Awesome-List-blueviolet?style=for-the-badge" alt="Awesome"></a>
-    <a href="https://github.com/antonioscardace/Awesome-Generative-Model-Memorisation/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-CC0-green?style=for-the-badge" alt="License"></a>
+    <a href="https://github.com/antonioscardace/Awesome-Generative-Models-Memorisation/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-CC0-green?style=for-the-badge" alt="License"></a>
 </div>
 <br/>
 
