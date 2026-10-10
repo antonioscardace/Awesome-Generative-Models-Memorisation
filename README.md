@@ -8,9 +8,6 @@
 
 A curated collection of research papers, legal documents, and other resources exploring **memorization in deep generative models**, with a particular emphasis on computer vision and medical imaging.
 
-👍🏼 Contributions are welcome! <br/>
-👉🏼 To add a paper, open a pull request (PR).
-
 ## Memorization in GANs
 
 * **2021**: [When Do GANs Replicate? On the Choice of Dataset Size](https://doi.org/10.1109/ICCV48922.2021.00663)
